@@ -2,12 +2,12 @@
 This project simulates a real-world Security Operations Center (SOC) pipeline that detects, analyzes, and responds to security threats automatically.  It integrates SIEM, threat intelligence, AI-based triage, and automated response into a single system.
 
 ⚙️ Features
-Wazuh SIEM integration
-IOC extraction
-Threat intelligence using VirusTotal & AbuseIPDB
-AI based alert analysis using local LLM (Ollama) gemma 4
-Automated response for IP blocking
-Telegram bot alerts for notification
+- Wazuh SIEM integration
+- IOC extraction
+- Threat intelligence using VirusTotal & AbuseIPDB
+- AI based alert analysis using local LLM (Ollama) gemma 4
+- Automated response for IP blocking
+- Telegram bot alerts for notification
 
 🧠 Architecture
 Wazuh → Python SOAR → Threat Intel → AI → Response
