@@ -13,12 +13,12 @@ Telegram bot alerts for notification
 Wazuh → Python SOAR → Threat Intel → AI → Response
 
 🛠️ Tech Stack
-Python
-Wazuh SIEM
-Streamlit
-Ollama (LLM) Gemma 4
-iptables
-Telegram Bot API
+- Python
+- Wazuh SIEM
+- Streamlit
+- Ollama (LLM) Gemma 4
+- iptables
+- Telegram Bot API
 
 🚀 How It Works
 1. Wazuh detects suspicious activity
